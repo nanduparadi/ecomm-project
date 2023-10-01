@@ -1,0 +1,148 @@
+{
+  "seller": [
+    {
+      "name": "demo",
+      "password": "hello",
+      "email": "demo@gmail.com"
+    },
+    {
+      "name": "kiran",
+      "password": "hello",
+      "email": "demo@gmail.com"
+    },
+    {
+      "name": "kranti",
+      "password": "hello",
+      "email": "demo@gmail.com"
+    },
+    {
+      "name": "kan",
+      "password": "hello",
+      "email": "demo@gmail.com"
+    }
+  ],
+  "sell": [
+    {
+      "name": "manager",
+      "password": "MinLight1$",
+      "email ": "min@gmaioc.com",
+      "id": 1
+    },
+    {
+      "name": "hari",
+      "password": "hari",
+      "email": "hari@gmial.com",
+      "id": 2
+    },
+    {
+      "name": "srinu",
+      "password": "seri@gailc.com",
+      "email": "ahdsklfjkjdkfjk",
+      "id": 3
+    },
+    {
+      "name": "naveen",
+      "password": "navee",
+      "email": "nave@gmailc.om",
+      "id": 5
+    },
+    {
+      "name": "ravi",
+      "password": "raviravi",
+      "email": "ravi@g.com",
+      "id": 6
+    },
+    {
+      "name": "manager",
+      "password": "MinLight1$",
+      "email ": "min@gmaioc.com",
+      "id": 7
+    },
+    {
+      "name": "jani",
+      "password": "jani",
+      "email": "jani@gmial.com",
+      "id": 8
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 12
+    },
+    {
+      "name": "route",
+      "password": "route",
+      "email": "router.gmail.com",
+      "id": 13
+    },
+    {
+      "email": "manager",
+      "password": "MinLight1$",
+      "id": 14
+    },
+    {
+      "email": "manager",
+      "password": "MinLight1$",
+      "id": 15
+    },
+    {
+      "email": "manager",
+      "password": "MinLight1$",
+      "id": 16
+    },
+    {
+      "email": "manager",
+      "password": "MinLight1$",
+      "id": 17
+    },
+    {
+      "email": "managerasdf",
+      "password": "MinLight1$",
+      "id": 18
+    },
+    {
+      "email": "manager",
+      "password": "MinLight1$",
+      "id": 19
+    },
+    {
+      "email": "nandhuparadhi1234@gmail.com",
+      "password": "sssskss",
+      "id": 20
+    },
+    {
+      "email": "ravi@g.com",
+      "password": "raviravi",
+      "id": 21
+    },
+    {
+      "email": "asdfghj",
+      "password": "asdfghj",
+      "id": 22
+    },
+    {
+      "email": "rthjhjh",
+      "password": "ygggjjhj",
+      "id": 23
+    }
+  ]
+}

@@ -1,1 +1,25 @@
-<p>seller-auth works!</p>
+<div class="seller-auth">
+    <div class="sign-up" *ngIf="!showLogin">
+        <h1>Seller sign-up</h1>
+        <form class="common-form" #sellerSignUp="ngForm" (ngSubmit)="signUp(sellerSignUp.value)">
+            <input type="text" class="form-input" placeholder="Enter Name" name="name" ngModel>
+            <input type="password" class="form-input" placeholder="Enter Password" name="password" ngModel>
+            <input type="text" class="form-input" placeholder="Enter Email" name="email" ngModel>
+            <button class="form-button">Sign Up</button>
+            <a href="" class="auth-toggle-link" (click)="openLogin()">Already have account? Click for Login</a>
+        </form>
+    </div>
+
+    <div class="sign-up" *ngIf="showLogin" class="login">
+        <h1>Seller Login</h1>
+        <p class="txt_danger">{{authError}}</p>
+        <form class="common-form" #sellerLogin="ngForm" (ngSubmit)="login(sellerLogin.value)">
+            <input type="text" class="form-input" placeholder="Enter email" name="email" ngModel>
+            <input type="password" class="form-input" placeholder="Enter Password" name="password" ngModel>
+            <button class="form-button">Login</button>
+            <a href="" class="auth-toggle-link" (click)="openSignUp()">Don't have account? Click for Sign-up</a>
+
+        </form>
+    </div>
+</div>
+
